@@ -2,7 +2,7 @@ let cubes = []; //创建方块数列；
 // let cube;
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
   angleMode(DEGREES);
 
